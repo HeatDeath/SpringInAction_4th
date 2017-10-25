@@ -1,0 +1,5 @@
+soundsystem\CompactDisc.class
+soundsystem\CDPlayer.class
+soundsystem\CDPlayerConfig.class
+soundsystem\MediaPlayer.class
+soundsystem\SgtPeppers.class
